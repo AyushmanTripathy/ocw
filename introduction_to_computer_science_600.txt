@@ -8,12 +8,12 @@
 [x] https://youtu.be/ewd7Lf2dr5Q
 [x] https://youtu.be/UNHQ7CRsEtU
 [x] https://youtu.be/kDhR4Zm53zc
-[ ] https://youtu.be/DkPsD58nUIE
-[ ] https://youtu.be/udnyuHzJsjM
-[ ] https://youtu.be/ZKBUu_ahSR4
-[ ] https://youtu.be/le8tpXQyYcM
-[ ] https://youtu.be/y81AhLQN-NI
-[ ] https://youtu.be/Q8SoG1OIveU
+[x] https://youtu.be/DkPsD58nUIE
+[x] https://youtu.be/udnyuHzJsjM
+[x] https://youtu.be/ZKBUu_ahSR4
+[x] https://youtu.be/le8tpXQyYcM
+[x] https://youtu.be/y81AhLQN-NI
+[x] https://youtu.be/Q8SoG1OIveU
 [ ] https://youtu.be/ZbIpjf0QEPI
 [ ] https://youtu.be/QJ_MPc0TobI
 [ ] https://youtu.be/IZaAUwW7OsU
@@ -22,3 +22,21 @@
 [ ] https://youtu.be/WGDbIKtjmSs
 [ ] https://youtu.be/raTzkzML31w
 [ ] https://youtu.be/2q--tAPkVXI
+
+
+Exhasutive Enumeration
+Bisection Methods, Newton Raphson
+Succesive Approximation
+efficiency
+complexity
+Binary Search, bubble and selection sorts
+divide and conquer methods, merge sort
+testing and debugging
+knapsack problem
+dynamic problem
+  overlapping subproblems
+  optimal substructure
+decision tree
+Object oriented programming
+Computational Models
+  Random walk simulation
