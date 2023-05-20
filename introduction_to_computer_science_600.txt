@@ -14,12 +14,12 @@
 [x] https://youtu.be/le8tpXQyYcM
 [x] https://youtu.be/y81AhLQN-NI
 [x] https://youtu.be/Q8SoG1OIveU
-[ ] https://youtu.be/ZbIpjf0QEPI
-[ ] https://youtu.be/QJ_MPc0TobI
-[ ] https://youtu.be/IZaAUwW7OsU
-[ ] https://youtu.be/ENrAsRoR97I
-[ ] https://youtu.be/SuOIpJnn888
-[ ] https://youtu.be/WGDbIKtjmSs
+[x] https://youtu.be/ZbIpjf0QEPI
+[x] https://youtu.be/QJ_MPc0TobI
+[x] https://youtu.be/IZaAUwW7OsU
+[x] https://youtu.be/ENrAsRoR97I
+[x] https://youtu.be/SuOIpJnn888
+[x] https://youtu.be/WGDbIKtjmSs
 [ ] https://youtu.be/raTzkzML31w
 [ ] https://youtu.be/2q--tAPkVXI
 
@@ -40,3 +40,8 @@ decision tree
 Object oriented programming
 Computational Models
   Random walk simulation
+Monte Carlo simulation
+  estimating pi
+Distributions
+  normal, uniform, exponential
+pyploting
