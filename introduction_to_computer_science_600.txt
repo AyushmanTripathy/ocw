@@ -20,8 +20,8 @@
 [x] https://youtu.be/ENrAsRoR97I
 [x] https://youtu.be/SuOIpJnn888
 [x] https://youtu.be/WGDbIKtjmSs
-[ ] https://youtu.be/raTzkzML31w
-[ ] https://youtu.be/2q--tAPkVXI
+[x] https://youtu.be/raTzkzML31w
+[x] https://youtu.be/2q--tAPkVXI
 
 
 Exhasutive Enumeration
@@ -45,3 +45,4 @@ Monte Carlo simulation
 Distributions
   normal, uniform, exponential
 pyploting
+What do computer scientists do?
