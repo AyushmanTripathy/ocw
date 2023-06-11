@@ -1,0 +1,80 @@
+[x] HtSuA80QTyo
+[x] Zc54gFhdpLA
+[x] Kg4bqzAqRBM
+[ ] B7hVxCmfPtM
+[ ] 9Jry5-82I68
+[ ] FNeL18KsWPc
+[ ] Nz1KZXbghj8
+[ ] 0M_kIqhwbFo
+[ ] BRO7mVIFt08
+[ ] rvdJDijO2Ro
+[ ] eCaXlAaN2uE
+[ ] 2YeJ-5UAke8
+[ ] s-CYnVz-uh4
+[ ] AfSk24UTFS8
+[ ] Aa2sqUhIn-E
+[ ] 2E7MmKv0Y24
+[ ] ozsuci5pIso
+[ ] CHvQ3q_gJ7E
+[ ] OQ5jsbhAv_M
+[ ] ENyox7kNKeY
+[ ] ocZMDMZwhCY
+[ ] tp4_UXaVyx8
+[ ] moPtwq_cVH8
+[ ] dU40AvBURDQ
+[ ] P7frcB_-g4w
+[ ] QFcyt8fgQMU
+[ ] 4iXLnF3hExw
+[ ] r5pXu1PAUkI
+[ ] IWzYoXKaRIc
+[ ] 9bkvws_vqLU
+[ ] eGSXsaJ-BlY
+[ ] w6nuXg0BISo
+[ ] -DwGrJ8JxDc
+[ ] -FElVPKykgw
+[ ] a_otxyu0mSQ
+[ ] JRgIXyEPnbA
+[ ] 5JxShDZ_ylo
+[ ] C5SPsY72_CM
+[ ] mQSp6VmfakA
+[ ] oRpERQA4Vik
+[ ] sPuazUPiV1k
+[ ] IFrvgSvZA0I
+[ ] jZbkToeNK2g
+[ ] PptQgy89cN8
+[ ] wFP5VHGHFdk
+[ ] t5Wxk96QjUk
+[ ] hkAONP0aC9w
+
+INTRODUCTION TO ALGORITHIMS
+efficient, scalability, data structures
+peak finding (1D, 2D)
+  divide and conquer
+  greedy ascent
+LECTURE 2
+---------
+analogs
+  program <=> algorithim
+  language <=> pusedo code
+  computer <=> model of computation
+model of computation is specification of 
+  what you can do and how much it costs
+also know as paradigms
+RAM
+  modeled as big array
+    Random Access Memory <=> Random Access Machine (RAM)
+  - in O(1) can read and write O(1) words
+  - do computations in O(1)
+  - store words O(1)
+  word is 64/32/16 bytes
+  word = log(size of memory)
+POINTER MACHINE
+  dynamically allocated objects
+  objects have O(1) feilds
+  feilds are words or pointers
+  pointer to obejcts or null
+  not like C pointers which are index of arrays in RAM (no pointer arithmetics)
+PYTHON MODEL
+  has both refrences and arrays
+    list <=> array
+  append in python uses table doubling
